@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://http://blog.awesomedev.ninja/" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="XeJd59P70f.BasicSample" package="XeJd59P70f" required_version="2.2"/>
+    <tizen:category name="com.samsung.wmanager.WATCH_CLOCK"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="FOclock_orig.ico" height="16" width="16"/>
+    <name>SwearOClock</name>
+</widget>

@@ -3,7 +3,7 @@ var aTens = [ "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty"
 var aOnes = [ "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
   "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", 
   "Nineteen" ];
-var sWords = ["Damn", "Fucking", "Flippin", "Frikken", "Effin", ""];
+var sWords = ["Damn", "Fucking", "Flippin", "Frikken", "Effin"];
 
 window.requestAnimationFrame = window.requestAnimationFrame ||
     window.webkitRequestAnimationFrame ||
